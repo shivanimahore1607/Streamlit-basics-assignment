@@ -1,0 +1,1 @@
+This app displays sales data and allows filtering by category using Streamlit.
